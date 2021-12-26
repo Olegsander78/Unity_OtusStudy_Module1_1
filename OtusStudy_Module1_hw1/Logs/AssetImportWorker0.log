@@ -187,3 +187,150 @@ Received Import Request.
 Start importing Assets/Prefabs/Coin.prefab using Guid(765d9960c2465c24980e37cfd5ecd88c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4020a4b76c1b9d23aea4834dcbb05f3b') in 0.038425 seconds 
   Import took 0.046532 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1051.882431 seconds.
+  path: Assets/Top-Down Dungeons 2/Demo/Demo mobile/Lightmap-0_comp_light.exr
+  artifactKey: Guid(ad53ca7b7d53c654286ec7e976a7816b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top-Down Dungeons 2/Demo/Demo mobile/Lightmap-0_comp_light.exr using Guid(ad53ca7b7d53c654286ec7e976a7816b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de7eb520fd88b3d571440b6685201c9') in 0.064658 seconds 
+  Import took 0.067899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Top-Down Dungeons 2/Demo/Demo mobile/ReflectionProbe-0.exr
+  artifactKey: Guid(9d4fb7050c11a034a9f80b5d81d2fe93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top-Down Dungeons 2/Demo/Demo mobile/ReflectionProbe-0.exr using Guid(9d4fb7050c11a034a9f80b5d81d2fe93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77c6a08860d47ef707530dac300d55f5') in 0.041438 seconds 
+  Import took 0.044131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Top-Down Dungeons 2/Demo/Demo mobile/LightmapSnapshot.asset
+  artifactKey: Guid(2b40619dc637b3545ab59a1fc9c6e6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top-Down Dungeons 2/Demo/Demo mobile/LightmapSnapshot.asset using Guid(2b40619dc637b3545ab59a1fc9c6e6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Lighting data asset ‘LightmapSnapshot’ is incompatible with the current Unity version. Please use Generate Lighting to rebuild the lighting data.  Realtime Global Illumination cannot be used until the lighting data is rebuilt.
+ -> (artifact id: '9d86537efea24c916d9150ab42aeeeec') in 0.013059 seconds 
+  Import took 0.015665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 286.965607 seconds.
+  path: Assets/Top-Down Dungeons 2/Demo/Demo.unity
+  artifactKey: Guid(7fda9afa621104b46a6cc035658f675a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Top-Down Dungeons 2/Demo/Demo.unity using Guid(7fda9afa621104b46a6cc035658f675a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4449a6aa9e7fe1fbb7e119f10a034d6') in 0.006885 seconds 
+  Import took 0.042545 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.026945 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.116 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3125ms)
+		BeginReloadAssembly (949ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (51ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (391ms)
+		EndReloadAssembly (1537ms)
+			LoadAssemblies (231ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (652ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (63ms)
+			SetupLoadedEditorAssemblies (481ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (119ms)
+				ProcessInitializeOnLoadAttributes (335ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1634 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.7 MB.
+System memory in use after: 81.9 MB.
+
+Unloading 100 unused Assets to reduce memory usage. Loaded Objects now: 2076.
+Total: 7.814500 ms (FindLiveObjects: 0.216800 ms CreateObjectMapping: 0.087100 ms MarkObjects: 4.998000 ms  DeleteObjects: 2.510200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.023878 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.56 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.536 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3540ms)
+		BeginReloadAssembly (280ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (14ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (88ms)
+		EndReloadAssembly (3064ms)
+			LoadAssemblies (264ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1274ms)
+			ReleaseScriptCaches (7ms)
+			RebuildScriptCaches (131ms)
+			SetupLoadedEditorAssemblies (1043ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (22ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (258ms)
+				ProcessInitializeOnLoadAttributes (700ms)
+				ProcessInitializeOnLoadMethodAttributes (47ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (21ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1633 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 81.8 MB.
+
+Unloading 100 unused Assets to reduce memory usage. Loaded Objects now: 2078.
+Total: 15.258200 ms (FindLiveObjects: 0.175700 ms CreateObjectMapping: 0.162200 ms MarkObjects: 5.166300 ms  DeleteObjects: 9.751900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
