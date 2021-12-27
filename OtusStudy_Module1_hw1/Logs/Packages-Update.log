@@ -44,3 +44,22 @@ The following packages were added:
   com.unity.textmeshpro@3.0.6
   com.unity.timeline@1.4.8
   com.unity.ugui@1.0.0
+
+=== Mon Dec 27 22:35:27 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.2d.animation@5.0.9
+  com.unity.2d.psdimporter@4.0.2
+  com.unity.2d.spriteshape@5.1.6
+  com.unity.2d.tilemap@1.0.0
+  com.unity.2d.tilemap.extras@1.8.1-preview
+  com.unity.burst@1.4.3
+  com.unity.cinemachine@2.6.11
+  com.unity.collections@0.15.0-preview.21
+  com.unity.device-simulator@3.0.3-preview
+  com.unity.postprocessing@3.0.3
+  com.unity.render-pipelines.universal@10.3.2
+  com.unity.2d.common@4.0.3
